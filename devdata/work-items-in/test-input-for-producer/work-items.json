@@ -1,0 +1,27 @@
+[
+  {
+    "payload": {
+      "email": {
+        "messageId": "<123.example.com>",
+        "from": {
+          "name": "John Doe",
+          "address": "john.doe@example.com"
+        },
+        "to": [
+          {
+            "name": "",
+            "address": "my.process@example.com"
+          }
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject": "Email to trigger Control Room process",
+        "date": "2024-05-07T06:01:21.000Z",
+        "text": "Example email body\n\n________________________________\n"
+      }
+    },
+    "files": {
+      "orders.xlsx": "orders.xlsx"
+    }
+  }
+]

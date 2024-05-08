@@ -1,0 +1,25 @@
+{"when":1715161493,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Producer from=c:\\Git\\example-producer-consumer-email-attachments\\robot.yaml","comment":"at task environment setup"}
+{"when":1715161493,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.089s Context: \"\" \u003cLT-EP\\Eki@LT-EP\u003e [windows_amd64/Microsoft Windows [Version 10.0.22631.3527]]."}
+{"when":1715161493,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.012s Fresh [shared mode] holotree environment e6f511ed-6914-686b-ace2-8380cb8fa01b. (parent/pid: 41620/14852)"}
+{"when":1715161493,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.013s Holotree blueprint is \"3fa77967bdfc6ffb\" [windows_amd64 with 19 workers on 20 CPUs from \"conda.yaml\"]."}
+{"when":1715161494,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.142s Restore space from library [with 19 workers on 20 CPUs; with compression: true]."}
+{"when":1715161494,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.314s Fresh holotree done [with 19 workers on 20 CPUs]."}
+{"when":1715161494,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1715161494,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1715161494,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[30708:python.exe]"}
+{"when":1715161500,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1715161500,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 0 ... map[]"}
+{"when":1715161500,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1715161500,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Consumer from=c:\\Git\\example-producer-consumer-email-attachments\\robot.yaml","comment":"at task environment setup"}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.077s Context: \"\" \u003cLT-EP\\Eki@LT-EP\u003e [windows_amd64/Microsoft Windows [Version 10.0.22631.3527]]."}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.011s Fresh [shared mode] holotree environment e6f511ed-6914-686b-ace2-8380cb8fa01b. (parent/pid: 1216/8900)"}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.013s Holotree blueprint is \"3fa77967bdfc6ffb\" [windows_amd64 with 19 workers on 20 CPUs from \"conda.yaml\"]."}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.130s Restore space from library [with 19 workers on 20 CPUs; with compression: true]."}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.299s Fresh holotree done [with 19 workers on 20 CPUs]."}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1715161514,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[37504:python.exe]"}
+{"when":1715161519,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1715161519,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1715161520,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}

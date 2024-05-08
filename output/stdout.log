@@ -1,0 +1,15 @@
+
+Collecting task consumer from: tasks.py
+============================== Running: [96mconsumer[0m ===============================
+Processing order: Sol Heaton, 3695, Sauce Labs Bolt T-Shirt
+Processing order: Gregg Arroyo, 4418, Sauce Labs Onesie
+Processing order: Zoya Roche, 3013, Sauce Labs Bolt T-Shirt
+Processing order: Gregg Arroyo, 4418, Sauce Labs Bolt T-Shirt
+Processing order: Camden Martin, 1196, Sauce Labs Bolt T-Shirt
+Processing order: Zoya Roche, 3013, Sauce Labs Fleece Jacket
+Processing order: Zoya Roche, 3013, Sauce Labs Onesie
+Processing order: Sol Heaton, 3695, Sauce Labs Fleece Jacket
+Processing order: Sol Heaton, 3695, Sauce Labs Onesee
+[96mconsumer[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Git\example-producer-consumer-email-attachments\output\log.html
